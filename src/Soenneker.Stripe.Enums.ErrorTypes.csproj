@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?><Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
-        <TargetFrameworks>net9.0</TargetFrameworks>
+        <TargetFramework>net10.0</TargetFramework>
         <Nullable>enable</Nullable>
         <Platforms>AnyCPU</Platforms>
         <NoWarn>$(NoWarn);1591</NoWarn>
@@ -9,7 +9,7 @@
 
     <PropertyGroup>
         <Description>A strongly-typed list of Stripe error types, representing broad categories of failure returned by the Stripe API.</Description>
-        <Version Condition="'$(BUILD_VERSION)' == ''">3.0.0</Version>
+        <Version Condition="'$(BUILD_VERSION)' == ''">4.0.0</Version>
         <Version Condition="'$(BUILD_VERSION)' != ''">$(BUILD_VERSION)</Version>
         <AssemblyName>Soenneker.Stripe.Enums.ErrorTypes</AssemblyName>
         <PackageId>Soenneker.Stripe.Enums.ErrorTypes</PackageId>
