@@ -14,7 +14,7 @@
         <AssemblyName>Soenneker.Stripe.Enums.ErrorTypes</AssemblyName>
         <PackageId>Soenneker.Stripe.Enums.ErrorTypes</PackageId>
         <PackageTags>stripe enums errortypes cards card credit debit payment processing method methods error code decline type types stripeerrortype enum csharp dotnet c# .net</PackageTags>
-        <Copyright>Copyright © 2025 Jake Soenneker</Copyright>
+        <Copyright>Copyright © 2025-2026 Jake Soenneker</Copyright>
         <Authors>Jake Soenneker</Authors>
         <Company>https://soenneker.com</Company>
         <GenerateDocumentationFile>true</GenerateDocumentationFile>
