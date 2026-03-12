@@ -15,7 +15,7 @@
     </ItemGroup>
 
     <ItemGroup>
-        <ProjectReference Include="..\..\src\Soenneker.Stripe.Enums.ErrorTypes.csproj" />
+        <ProjectReference Include="..\..\src\Soenneker.Stripe.Enums.ErrorTypes\Soenneker.Stripe.Enums.ErrorTypes.csproj" />
     </ItemGroup>
 
     <ItemGroup>
