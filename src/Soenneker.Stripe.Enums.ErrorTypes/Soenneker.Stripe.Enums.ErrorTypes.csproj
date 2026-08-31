@@ -8,7 +8,7 @@
     </PropertyGroup>
 
     <PropertyGroup>
-        <Description>A strongly-typed list of Stripe error types, representing broad categories of failure returned by the Stripe API.</Description>
+        <Description>Provides strongly typed values for Stripe API error categories.</Description>
         <Version Condition="'$(BUILD_VERSION)' == ''">4.0.0</Version>
         <Version Condition="'$(BUILD_VERSION)' != ''">$(BUILD_VERSION)</Version>
         <AssemblyName>Soenneker.Stripe.Enums.ErrorTypes</AssemblyName>

@@ -3,7 +3,7 @@ using Soenneker.Gen.EnumValues;
 namespace Soenneker.Stripe.Enums.ErrorTypes;
 
 /// <summary>
-/// A strongly-typed list of Stripe error types, representing broad categories of failure returned by the Stripe API.
+/// Represents a broad Stripe API error category.
 /// </summary>
 [EnumValue<string>]
 public partial class StripeErrorType
